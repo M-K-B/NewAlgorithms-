@@ -1,14 +1,4 @@
-""" Basic BST code for inserting (i.e. building) and printing a tree
 
-    Your ***first standard viva task*** (of 5) will be to implement a find method into
-    the class BinaryTree from pseudocode. See the lab task sheet for Week 4. 
-
-    Your ***first advanced viva task*** (of 3) will be to implement a remove (delete) method
-    into the class Binary Tree from partial pseudocode. See the lab task sheet for Week 4.
-
-    Since the given code is in python it is strongly suggested you stay with python; but
-    if you want to reimplement as C++ this is also OK (but not worth extra credit)
-"""
 
 import math
 
