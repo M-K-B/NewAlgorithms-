@@ -1,10 +1,6 @@
 import sys, time
 from datetime import datetime
 
-#NB the implementation of merge sort comes with comments; you can comment your own code, but this is optional
-#NB2 the other sorts take less code! ;-)
-
-
 
 
 def mergeSort(alist):
